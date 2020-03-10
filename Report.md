@@ -40,4 +40,4 @@ Team Number:
 
 9. Screenshot of your Blynk App:
 
-    ![your image here->](C:\Users\cytom\Downloads\image0.png)
+    ![C:\Users\cytom\Downloads\image0.png]
