@@ -1,8 +1,8 @@
-Name:
+Name: Christian Tomah
 
-EID:
+EID: ct29442
 
-Team Number:
+Team Number: 15
 
 ## Questions
 
